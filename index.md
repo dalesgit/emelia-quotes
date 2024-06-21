@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Emelia's quotes for the journey 
+title: For the journey 
 subtitle: My granddaughter graduated from high school this past month.
 ---
 
