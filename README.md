@@ -1,3 +1,3 @@
-My granddaughter's graduation present.
+Part of my granddaughter's graduation present.
 
 
