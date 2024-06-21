@@ -1,16 +1,16 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Gathering of quotes for my granddaughter on her high school
+graduation 
 ---
 
-My name is Inigo Montoya. I have the following qualities:
-
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
+In June of this year, my granddaughter graduated from high school. I couldn't
+give her a pocket knife and a dictionary -- that's what my parents gave me on
+my graduation. I couldn't because a paper dictionary doesn't make sense in
+today's world and my granddaughter may or may not be making a journey that
+requires a pocket knife. Her needs may well be very different.
 
 ### My story
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+At this moment there is no other need for me to be part of the story. 
