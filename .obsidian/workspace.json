@@ -1,0 +1,189 @@
+{
+  "main": {
+    "id": "fce364772788da75",
+    "type": "split",
+    "children": [
+      {
+        "id": "1cef254eeda7057d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f2413e21f900fdaa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pages-bak/2024-06-22-Contemplative-Prayer.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2024-06-22-Contemplative-Prayer"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7b70ba81dafac85f",
+    "type": "split",
+    "children": [
+      {
+        "id": "005f8f08470f4645",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e6870cbb453d7599",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "6e26ba5009563a4a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "1d45801dfb79aa73",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9a7dfcdbe8a4dfa8",
+    "type": "split",
+    "children": [
+      {
+        "id": "dd18523ed3d27083",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f460e21f41ef31a5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "pages-bak/2024-06-22-Contemplative-Prayer.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2024-06-22-Contemplative-Prayer"
+            }
+          },
+          {
+            "id": "779a6ca22f470a27",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "pages-bak/2024-06-22-Contemplative-Prayer.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2024-06-22-Contemplative-Prayer"
+            }
+          },
+          {
+            "id": "bf5b8bd6b59bcc55",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "b24553d7502f3ca1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "pages-bak/2024-06-22-Contemplative-Prayer.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2024-06-22-Contemplative-Prayer"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "f2413e21f900fdaa",
+  "lastOpenFiles": [
+    "pages-bak/2024-06-01-What-great-thing-can-I-do.md",
+    "assets/img/404-southpark.jpg",
+    "assets/img/thumb.png",
+    "assets/img/path.jpg",
+    "assets/img/crepe.jpg",
+    "assets/img/bgimage.png",
+    "README.md",
+    "screenshot.png",
+    "aboutme.md",
+    "template-bak/file-create.md",
+    "additions-bak/Quotes new.md",
+    "additions-bak/prayer-quotes.md",
+    "additions-bak/emelia's quotes.md",
+    "index.md",
+    "pages-bak/2024-06-01-for-Lindisfaren.md"
+  ]
+}
